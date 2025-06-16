@@ -25,8 +25,3 @@ Replace `YOUR_API_KEY_HERE` in `main.py` with your OpenWeatherMap API key.
 ```bash
 python main.py
 ```
-
-## 💡 Future Ideas
-- GPS support
-- Save favorite cities
-- Weather forecast for next few days
